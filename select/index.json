@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "amazarashi 『季節は次々死んでいく』 ”Seasons die one after another” “東京喰種トーキョーグール√A”ED",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-02-09T16:03:34.511026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Natsu wa Amazarashi",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/01_Natsu_wa_Amazarashi_Rib.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "amazarashi 『ロストボーイズ』Official Video",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_amazarashi_『ロストボーイズ』Official_Video_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "amazarashi『境界線』Music Video",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_amazarashi『境界線』Music_Video_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "amazarashi 『1.0』Music Video feat. チ。",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_amazarashi_『1.0』Music_Video_feat._チ。_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "amazarashi 『空白の車窓から』Official Video",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/05_amazarashi_『空白の車窓から』Official_Video_amazarashi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "05 - Amazarashi nara Nureru ga Ii sa",
+      "artist": "Eastern Youth",
+      "has_synced": true,
+      "path": "select/06_05_-_Amazarashi_nara_Nureru_ga_Ii_sa_Eastern_Youth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/07_季節は次々死んでいく_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく acoustic Version.",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/08_季節は次々死んでいく_acoustic_Version._amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく -東京喰種トーキョーグール√A Edit-",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/09_季節は次々死んでいく_-東京喰種トーキョーグール√A_Edit-_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/10_季節は次々死んでいく_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく (Acoustic Ver.)",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/11_季節は次々死んでいく_(Acoustic_Ver.)_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく - Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/12_季節は次々死んでいく_-_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく Starlight Ver.",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/13_季節は次々死んでいく_Starlight_Ver._amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/14_季節は次々死んでいく_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく - Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/15_季節は次々死んでいく_-_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "季節は次々死んでいく",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_季節は次々死んでいく_amazarashi.txt"
+    }
+  ]
+}
